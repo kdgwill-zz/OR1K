@@ -1,0 +1,15 @@
+Info (10281): Verilog HDL Declaration information at mor1kx_dcache.v(73): object "IDLE" differs only in case from object "idle" in the same scope
+Info (10281): Verilog HDL Declaration information at mor1kx_dcache.v(74): object "READ" differs only in case from object "read" in the same scope
+Info (10281): Verilog HDL Declaration information at mor1kx_dcache.v(75): object "WRITE" differs only in case from object "write" in the same scope
+Info (10281): Verilog HDL Declaration information at mor1kx_dcache.v(76): object "REFILL" differs only in case from object "refill" in the same scope
+Info (10281): Verilog HDL Declaration information at mor1kx_dcache.v(77): object "INVALIDATE" differs only in case from object "invalidate" in the same scope
+Info (10281): Verilog HDL Declaration information at mor1kx_fetch_cappuccino.v(125): object "ic_refill" differs only in case from object "IC_REFILL" in the same scope
+Info (10281): Verilog HDL Declaration information at mor1kx_icache.v(57): object "IDLE" differs only in case from object "idle" in the same scope
+Info (10281): Verilog HDL Declaration information at mor1kx_icache.v(58): object "READ" differs only in case from object "read" in the same scope
+Info (10281): Verilog HDL Declaration information at mor1kx_icache.v(59): object "REFILL" differs only in case from object "refill" in the same scope
+Info (10281): Verilog HDL Declaration information at mor1kx_icache.v(60): object "INVALIDATE" differs only in case from object "invalidate" in the same scope
+Info (10281): Verilog HDL Declaration information at mor1kx_lsu_cappuccino.v(152): object "dc_refill" differs only in case from object "DC_REFILL" in the same scope
+Info (10281): Verilog HDL Declaration information at or1200_fpu_intfloat_conv.v(78): object "snan" differs only in case from object "SNAN" in the same scope
+Info (10281): Verilog HDL Declaration information at or1200_fpu_intfloat_conv.v(86): object "INF" differs only in case from object "inf" in the same scope
+Info (10281): Verilog HDL Declaration information at or1200_fpu_intfloat_conv.v(87): object "QNAN" differs only in case from object "qnan" in the same scope
+Warning (10273): Verilog HDL warning at orpsoc_top.v(517): extended using "x" or "z"
